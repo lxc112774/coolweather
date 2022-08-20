@@ -1,2 +1,2 @@
 # coolweather
-token : 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
+token : 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
